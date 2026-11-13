@@ -1,3 +1,3 @@
-Amara: Frontend
-Daniel: Backend
-Zara: DevOps
+Amara: Frontend Developer
+Daniel: Backend Developer
+Zara: DevOps Developer
